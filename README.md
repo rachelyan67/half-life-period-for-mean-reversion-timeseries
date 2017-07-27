@@ -5,7 +5,7 @@ calculating the half life period for the mean reverting time series <br>
 用于计算均值回归时间序列的半衰期
 
 ## How to use the code
-A Function `halflife=getHalflife(z)` is defined, with `z` the time series to be calculated
+A Function `halflife = getHalflife(z)` is defined, with `z` the time series to be calculated
 
 
 
